@@ -95,12 +95,6 @@
       "git add"
     ]
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint:fix",
-      "pre-push": "npm run lint"
-    }
-  },
   "eslintConfig": {
     "extends": "react-app"
   },
