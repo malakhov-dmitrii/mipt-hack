@@ -8,7 +8,7 @@ const Header = () => {
     <div className={styles.Header}>
       <div className={styles.HeaderContent}>
         <div className={styles.Flex}>
-          <Logo />
+          {/* <Logo /> */}
 
           <div className={styles.NavRow}>
             <div className={styles.Link}>Портал</div>
